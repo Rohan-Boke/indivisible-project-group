@@ -1,0 +1,94 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .container1 {
+        position: relative;
+        background-color: crimson;
+        text-align: left;
+        box-sizing: border-box;
+        padding: 55px;
+        font-family: serif;
+        font-weight: bold;
+        overflow: hidden;
+    }
+    
+    .nav-bar {
+        padding: 0px 30px 0px 30px;
+        align-content: center;
+    }
+    
+    .iphone6 {
+        position: absolute;
+        right: 22%;
+        bottom: -15%;
+        transform: rotate(30deg);
+    }
+    
+    .container2 {
+        background-color: white;
+        padding: 55px;
+        box-sizing: border-box;
+        overflow: hidden;
+        border: none;
+        z-index: 10;
+    }
+    
+    .card {
+        border: none;
+    }
+    
+    .container3 {
+        box-sizing: border-box;
+        background-color: crimson;
+        padding: 55px;
+        text-align: center;
+        font-family: serif;
+        text-shadow: 10px;
+    }
+    
+    h5 {
+        color: gainsboro;
+        font-family: serif;
+    }
+    
+    .container4 {
+        box-sizing: border-box;
+        background-color: crimson;
+        padding: 55px;
+    }
+    
+    #img1 {
+        width: 26%;
+        padding: 3%;
+    }
+    
+    #img2 {
+        width: 26%;
+        padding: 3%;
+    }
+    
+    #img3 {
+        width: 26%;
+        padding: 3%;
+    }
+    
+    #heading1 {
+        text-align: center;
+        text-transform: capitalize;
+        font-family: serif;
+        font-weight: bold;
+    }
+    
+    .container6 {
+        box-sizing: border-box;
+        background-color: crimson;
+        padding: 60px;
+        font-family: serif;
+    }
+    
+    .footer {
+        box-sizing: border-box;
+        padding: 60px;
+    }
